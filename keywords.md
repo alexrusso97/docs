@@ -62,6 +62,7 @@
 - **Ottimizzazione**: Migliorare l'efficienza del codice o delle risorse del sistema.
 - **Concorrenza**: Capacità di un sistema di gestire più attività contemporaneamente, consentendo loro di avanzare in modo apparentemente simultaneo.
 - **Parallelismo**: Esecuzione effettiva di più attività allo stesso momento, generalmente distribuite tra diverse risorse di elaborazione.
+- **Versatilità**: Il codice deve essere versatile e facile da modificare.
 
 # Cloud Computing
 
